@@ -28,3 +28,5 @@ O código está organizado em camadas:
 
 A requisição é feita pelo `ProductRemoteDataSourceImpl` com `http.Client`.
 A `ProductRepositoryImpl` expõe o contrato `ProductRepository` para a camada de apresentação.
+
+ag
